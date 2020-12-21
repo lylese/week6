@@ -1,0 +1,10 @@
+
+.font-size-sm{
+    font-size: 16px;
+    @media screen and (max-width: 768px){
+        font-size: 14px;
+    }
+}
+.item-hover:hover{
+    box-shadow: 5px 5px 10px gray;
+}
